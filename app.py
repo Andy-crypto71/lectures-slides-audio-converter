@@ -16,7 +16,7 @@ st.set_page_config(
 
 # --- LOGIN & SESSION LOGIC ---
 def login_ui():
-    st.markdown("<h1 style='text-align: center; color: #D4AF37;'>Aura IA Studio</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: #D4AF37;'>LysnUp</h1>", unsafe_allow_html=True)
     st.write("### Sign In to Continue")
     
     with st.container():
